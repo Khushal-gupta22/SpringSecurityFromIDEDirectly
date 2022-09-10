@@ -1,1 +1,1 @@
-Spring securityproject where you can perform basic different functions 
+Spring security project where you can perform basic different functions 
